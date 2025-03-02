@@ -1,6 +1,8 @@
 <h1>Hi, I'm Kokui, an <a href="https://linkedin.com/in/kokui-agbenu">IT Professional</a>😎</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>📝 IT Compliance/Audit Projects:</h2>
+
+<h2>👩‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
