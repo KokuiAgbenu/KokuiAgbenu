@@ -3,8 +3,8 @@
 <h2>📝 IT Compliance/Audit Projects:</h2>
 
 - <b>NIST SP 800-53 Audit (Subset of Audit)</b>
-  -[,,,: Gathering Resources](https://github.com/kokuiagbenu/osticket-prereqs)
-  -[,,,: Audit Document]
+  - [CHANGE: Gathering Resources](https://github.com/kokuiagbenu/osticket-prereqs)
+  - [CHANGE: Conducting Audit](https://github.com/kokuiagbenu/osticket-post-install-config)
 
 <h2>👩‍💻 Information Technology Projects:</h2>
 
