@@ -2,6 +2,9 @@
 
 <h2>📝 IT Compliance/Audit Projects:</h2>
 
+- <b>NIST SP 800-53 Audit (Subset of Audit)</b>
+  -
+
 <h2>👩‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
