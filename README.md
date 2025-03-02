@@ -2,7 +2,7 @@
 
 <h2>📝 IT Compliance/Audit Projects:</h2>
 
-- <b>NIST SP 800-53 Audit (Subset of Audit)</b>(https://github.com/kokuiagbenu/osticket-prereqs)
+- <b>NIST SP 800-53 Audit (Subset of Audit)</b>
   -[,,,: Gathering Resources](https://github.com/kokuiagbenu/osticket-prereqs)
   -[,,,: Audit Document]
 
