@@ -1,6 +1,9 @@
 <h1>Hi, I'm Kokui, an <a href="https://linkedin.com/in/kokui-agbenu">IT Professional</a>😎</h1>
 
-<h2>📝 Cybersecurity Projects:</h2>
+<h2>🔒 Cybersecurity Projects:</h2>
+- <b>NIST SP 800-53 Audit (Subset of Audit)</b>
+
+<h2>📝 GRC/Audit Projects:</h2>
 
 - <b>NIST SP 800-53 Audit (Subset of Audit)</b>
   - [CHANGE: Gathering Resources](https://github.com/kokuiagbenu/osticket-prereqs)
