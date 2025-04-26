@@ -5,7 +5,9 @@
 </div>
 
 <h3>🔒 Cybersecurity Projects:</h3>
-- <b>NIST SP 800-53 Audit (Subset of Audit)</b>
+
+- <b>NIST SP 800-53 Audit (Subset of Audit))</b>
+  - [CHANGE: Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
 
 <h3>👩‍💻 IT Projects:</h3>
 
