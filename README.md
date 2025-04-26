@@ -7,12 +7,6 @@
 <h2>🔒 Cybersecurity Projects:</h2>
 - <b>NIST SP 800-53 Audit (Subset of Audit)</b>
 
-<h2>📝 GRC/Audit Projects:</h2>
-
-- <b>NIST SP 800-53 Audit (Subset of Audit)</b>
-  - [CHANGE: Gathering Resources](https://github.com/kokuiagbenu/osticket-prereqs)
-  - [CHANGE: Conducting Audit](https://github.com/kokuiagbenu/osticket-post-install-config)
-
 <h2>👩‍💻 IT Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
@@ -24,6 +18,12 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/kokuiagbenu/azure-network-protocols)
   - [Creating Virtual Machines in Azure on The Same Network](https://github.com/kokuiagbenu/create-virtual-machines)
 
+<h2>📝 GRC/Audit Projects:</h2>
+
+- <b>NIST SP 800-53 Audit (Subset of Audit)</b>
+  - [CHANGE: Gathering Resources](https://github.com/kokuiagbenu/osticket-prereqs)
+  - [CHANGE: Conducting Audit](https://github.com/kokuiagbenu/osticket-post-install-config)
+  - 
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Kokui | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
