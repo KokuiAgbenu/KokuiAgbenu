@@ -1,4 +1,5 @@
-<h1>Hi, I'm Kokui, an <a href="https://linkedin.com/in/kokui-agbenu">IT Professional</a>😎</h1>
+<h1>Hi, I'm Kokui</h1> 
+<h3 align="center">IT Professional | Cybersecurity Professional </h3>
 
 <h2>🔒 Cybersecurity Projects:</h2>
 - <b>NIST SP 800-53 Audit (Subset of Audit)</b>
