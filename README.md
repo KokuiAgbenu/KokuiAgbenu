@@ -23,7 +23,7 @@
 - <b>NIST SP 800-53 Audit (Subset of Audit)</b>
   - [CHANGE: Gathering Resources](https://github.com/kokuiagbenu/osticket-prereqs)
   - [CHANGE: Conducting Audit](https://github.com/kokuiagbenu/osticket-post-install-config)
-  - 
+    
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Kokui | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
