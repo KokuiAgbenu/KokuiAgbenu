@@ -1,5 +1,8 @@
-<h1>Hi, I'm Kokui</h1> 
+<h1>Hi, I'm Kokui 👋</h1> 
 <h3 align="center">IT Professional | Cybersecurity Professional </h3>
+<div align="center">
+    <a href="[https://www.linkedin.com/in/trevinoparker](https://www.linkedin.com/in/kokui-agbenu/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
 
 <h2>🔒 Cybersecurity Projects:</h2>
 - <b>NIST SP 800-53 Audit (Subset of Audit)</b>
