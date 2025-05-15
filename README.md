@@ -32,4 +32,4 @@
 [<img align="left" alt="Kokui | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 [linkedin]: https://linkedin.com/in/kokui-agbenu/
-[medium]: https://medium.com/@circuitboardcanvas
+[medium]: https://medium.com/@kokui-agbenu
