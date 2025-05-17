@@ -11,20 +11,18 @@ After growing customer support experience in various roles, I'm now excited to b
   - [CHANGE: Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
 
 <h3>👩‍💻 IT Projects:</h3>
-
+<hr/>
 - <b>Active Directory</b>
   - [Deploying Active Directory: Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
   - [Creating 100 users using Powershell: Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
   - [Group Policy and managing accounts: Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
    
-<hr/>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/kokuiagbenu/osticket-post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/kokuiagbenu/ticket-lifecycle)
  
-<hr/>
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/kokuiagbenu/configure-ad)
