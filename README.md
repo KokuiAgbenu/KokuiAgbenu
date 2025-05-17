@@ -11,6 +11,7 @@ After growing customer support experience in various roles, I'm now excited to b
   - [Vulnerability Management Program Implementation: Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
   - [Programmatic Vulnerability Remediations (PowerShell and BASH): Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
 
+<hr/>
 
 ## <h3>👩‍💻 IT Projects:</h3>
 
