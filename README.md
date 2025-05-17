@@ -7,8 +7,9 @@ After growing customer support experience in various roles, I'm now excited to b
 
 ## <h3>🔒 Cybersecurity Projects:</h3>
 
-- <b>CYBER Range project</b>
-  - [CHANGE: Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
+- <b>Vulnerability Management Project</b>
+  - [Vulnerability Management Program Implementation: Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
+  - [Programmatic Vulnerability Remediations (PowerShell and BASH): Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
 
 
 ## <h3>👩‍💻 IT Projects:</h3>
