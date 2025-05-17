@@ -7,15 +7,12 @@ After gaining customer support experience in various roles, I'm now excited to p
 </div>
 
 ## <h3>🔒 Cybersecurity Projects:</h3>
-
 - <b>Vulnerability Management Project</b>
   - [Vulnerability Management Program Implementation: Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
   - [Programmatic Vulnerability Remediations (PowerShell and BASH): Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
 
 
 ## <h3>👩‍💻 IT Projects:</h3>
-
-
 - <b>Active Directory</b>
   - [Deploying Active Directory: Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
   - [Creating 100 users using Powershell: Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
