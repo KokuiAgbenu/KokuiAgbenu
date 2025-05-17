@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kokui 👋</h1> 
+# <h1>Hi, I'm Kokui 👋</h1> 
 <h2 align="center">IT Professional | Cybersecurity Professional </h2>
 After growing customer support experience in various roles, I'm now excited to be making the pivot into supporting people with their IT problems and working to keep them secure while they're using the internet. I love sharing the things I'm learning through hands-on projects from vulnerability management to creating virtual machines. Feel free to browse and see the work I’ve put into enhancing security operations and learning about IT processes!
 <div align="center">
@@ -9,6 +9,7 @@ After growing customer support experience in various roles, I'm now excited to b
 <hr/>
 - <b>CYBER Range project</b>
   - [CHANGE: Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
+
 
 <h3>👩‍💻 IT Projects:</h3>
 <hr/>
