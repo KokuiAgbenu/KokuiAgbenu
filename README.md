@@ -5,14 +5,14 @@ After growing customer support experience in various roles, I'm now excited to b
     <a href="https://www.linkedin.com/in/kokui-agbenu"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
-<h3>🔒 Cybersecurity Projects:</h3>
-<hr/>
+## <h3>🔒 Cybersecurity Projects:</h3>
+
 - <b>CYBER Range project</b>
   - [CHANGE: Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
 
 
-<h3>👩‍💻 IT Projects:</h3>
-<hr/>
+## <h3>👩‍💻 IT Projects:</h3>
+
 
 - <b>Active Directory</b>
   - [Deploying Active Directory: Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
