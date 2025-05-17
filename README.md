@@ -6,11 +6,15 @@
 
 <h3>🔒 Cybersecurity Projects:</h3>
 
-- <b>CYBER Range prohect</b>
+- <b>CYBER Range project</b>
   - [CHANGE: Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
 
 <h3>👩‍💻 IT Projects:</h3>
 
+- <b>Active Directory</b>
+  - [Deploying Active Directory: Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
+  - [Creating 100 users using Powershell: Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
+  - [Group Policy and managing accounts: Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/kokuiagbenu/osticket-post-install-config)
@@ -20,11 +24,6 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/kokuiagbenu/azure-network-protocols)
   - [Creating Virtual Machines in Azure on The Same Network](https://github.com/kokuiagbenu/create-virtual-machines)
 
-<h3>📝 GRC/Audit Projects:</h3>
-
-- <b>NIST SP 800-53 Audit (Subset of Audit)</b>
-  - [CHANGE: Gathering Resources](https://github.com/kokuiagbenu/osticket-prereqs)
-  - [CHANGE: Conducting Audit](https://github.com/kokuiagbenu/osticket-post-install-config)
     
 <h3>🤳Connect with me:</h3>
 
