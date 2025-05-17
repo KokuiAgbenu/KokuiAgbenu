@@ -1,6 +1,6 @@
 # <h1>Hi, I'm Kokui 👋</h1> 
 <h2 align="center">IT Professional | Cybersecurity Professional </h2>
-After growing customer support experience in various roles, I'm now excited to be making the pivot into supporting people with their IT problems and working to keep them secure while they're using the internet. I love sharing the things I'm learning through hands-on projects from vulnerability management to creating virtual machines. Feel free to browse and see the work I’ve put into enhancing security operations and learning about IT processes!
+After gaining customer support experience in various roles, I'm now excited to pivot into IT support, helping people solve technical problems and stay secure online. I enjoy sharing what I'm learning through hands-on projects, from vulnerability management to creating virtual machines. Feel free to browse my work and see how I'm building skills in IT operations and cybersecurity!
 <div align="center">
     <a href="https://www.linkedin.com/in/kokui-agbenu"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
