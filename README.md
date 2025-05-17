@@ -6,12 +6,13 @@ After growing customer support experience in various roles, I'm now excited to b
 </div>
 
 <h3>🔒 Cybersecurity Projects:</h3>
-
+<hr/>
 - <b>CYBER Range project</b>
   - [CHANGE: Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
 
 <h3>👩‍💻 IT Projects:</h3>
 <hr/>
+
 - <b>Active Directory</b>
   - [Deploying Active Directory: Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
   - [Creating 100 users using Powershell: Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
