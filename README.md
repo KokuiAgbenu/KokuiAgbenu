@@ -7,31 +7,31 @@ After growing customer support experience in various roles, I'm now excited to b
 
 ## <h3>🔒 Cybersecurity Projects:</h3>
 
-- <b>CYBER Range project</b>
+# - <b>CYBER Range project</b>
   - [CHANGE: Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
 
 
 ## <h3>👩‍💻 IT Projects:</h3>
 
 
-- <b>Active Directory</b>
+# - <b>Active Directory</b>
   - [Deploying Active Directory: Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
   - [Creating 100 users using Powershell: Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
   - [Group Policy and managing accounts: Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
    
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+# - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/kokuiagbenu/osticket-post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/kokuiagbenu/ticket-lifecycle)
  
 
-- <b>Microsoft Azure</b>
+# - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/kokuiagbenu/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/kokuiagbenu/azure-network-protocols)
   - [Creating Virtual Machines in Azure on The Same Network](https://github.com/kokuiagbenu/create-virtual-machines)
 
-    
+<hr/>
 <h3>🤳Connect with me:</h3>
 
 [<img align="left" alt="Kokui | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
