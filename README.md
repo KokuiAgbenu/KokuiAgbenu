@@ -14,7 +14,7 @@ After growing customer support experience in various roles, I'm now excited to b
 ## <h3>👩‍💻 IT Projects:</h3>
 
 
-# - <b>Active Directory</b>
+### - <b>Active Directory</b>
   - [Deploying Active Directory: Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
   - [Creating 100 users using Powershell: Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
   - [Group Policy and managing accounts: Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
