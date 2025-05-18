@@ -6,11 +6,12 @@ After gaining customer support experience in various roles, I'm now excited to p
     <a href="https://www.linkedin.com/in/kokui-agbenu"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
-<!--## <h3>🔒 Cybersecurity Projects:</h3>
+<!--
+## <h3>🔒 Cybersecurity Projects:</h3>
 - <b>Vulnerability Management Project</b>
   - [Vulnerability Management Program Implementation: Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
   - [Programmatic Vulnerability Remediations (PowerShell and BASH): Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
-  -->
+-->
 
 
 ## <h3>👩‍💻 IT Projects:</h3>
@@ -19,7 +20,7 @@ After gaining customer support experience in various roles, I'm now excited to p
   - [Deploying Active Directory: Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
   - [Creating 100 users using Powershell: Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
   - [Group Policy and managing accounts: Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
-  --> 
+--> 
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
