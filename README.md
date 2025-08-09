@@ -33,6 +33,9 @@ After gaining customer support experience in various roles, I'm now excited to p
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/kokuiagbenu/azure-network-protocols)
   - [Creating Virtual Machines in Azure on The Same Network](https://github.com/kokuiagbenu/create-virtual-machines)
 
+## <h3>📖 Reading List:</h3>
+- <b>Frameworks</b>
+  - [NSCC Cyber Assessment Framework (CAF)](https://www.ncsc.gov.uk/collection/cyber-assessment-framework)
 <hr/>
 <h3>🤳Connect with me:</h3>
 
