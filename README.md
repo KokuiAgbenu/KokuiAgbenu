@@ -1,6 +1,13 @@
 # <h1>Hi, I'm Kokui 👋</h1> 
-<h2 align="center">IT Professional </h2>
-After gaining customer support experience in various roles, I'm now excited to pivot into IT support, helping people solve technical problems and stay secure online. I enjoy sharing what I'm learning through hands-on projects, from ticketing systems to creating virtual machines. Feel free to browse my work and see how I'm building skills in IT operations!
+<h2 align="center">Cyber Professional </h2>
+<b><div align="center">Cybersecurity enthusiast specialising in governance, risk, and compliance. I create hands-on projects that turn frameworks into practical, real-world solutions - making security clear, useful, and a little more human.</b></div>
+
+
+
+<br><i>About Me</i><br>
+I’m transitioning into cybersecurity with a focus on governance, risk, and compliance (GRC). With a background in tech customer support and administration, I’m skilled at breaking down complex processes and making them easy to follow.
+
+On this GitHub, I share hands-on projects, from risk registers to access control frameworks designed to turn policies into practical, real-world solutions. My goal is to make security as clear and actionable as it is robust.
 
 <br><div align="center">
     <a href="https://www.linkedin.com/in/kokui-agbenu"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
