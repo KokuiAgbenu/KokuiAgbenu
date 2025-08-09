@@ -2,13 +2,18 @@
 <h2 align="center">Cyber Professional </h2>
 <b><div align="center">Cybersecurity enthusiast specialising in governance, risk, and compliance. I create hands-on projects that turn frameworks into practical, real-world solutions - making security clear, useful, and a little more human.</b></div>
 
-
-
 <br><i>About Me</i><br>
 I’m transitioning into cybersecurity with a focus on governance, risk, and compliance (GRC). With a background in tech customer support and administration, I’m skilled at breaking down complex processes and making them easy to follow.
 
-On this GitHub, I share hands-on projects, from risk registers to access control frameworks designed to turn policies into practical, real-world solutions. My goal is to make security as clear and actionable as it is robust.
+On this GitHub, I share hands-on projects, from risk registers to access control frameworks designed to turn policies into practical, real-world solutions. My goal is to make security as clear and actionable as it is robust.  
 
+
+<i>Current Projects</i>
+- Cyber Risk Register – Practical example of identifying, assessing, and mitigating security risks.
+-  Access Control Framework Guide – Covers RBAC, JML processes, PAM, and access review procedures. 
+
+---
+  
 <br><div align="center">
     <a href="https://www.linkedin.com/in/kokui-agbenu"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
