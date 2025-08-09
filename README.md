@@ -35,7 +35,7 @@ After gaining customer support experience in various roles, I'm now excited to p
 
 ## <h3>📖 Reading List:</h3>
 - <b>Frameworks</b>
-  - [NSCC Cyber Assessment Framework (CAF)](https://www.ncsc.gov.uk/collection/cyber-assessment-framework)
+  - [NSCC Cyber Assessment Framework (CAF)](https://www.ncsc.gov.uk/collection/cyber-assessment-framework) 🔲
 <hr/>
 <h3>🤳Connect with me:</h3>
 
