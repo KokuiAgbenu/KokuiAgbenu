@@ -1,6 +1,6 @@
 # <h1>Hi, I'm Kokui 👋</h1> 
 <h2 align="center">Cyber Professional </h2>
-<b><div align="center">Cybersecurity enthusiast specialising in governance, risk, and compliance. I create hands-on projects that turn frameworks into practical, real-world solutions - making security clear, useful, and a little more human.</b></div>
+<b><div align="center">Cybersecurity professional specialising in governance, risk, and compliance. I create hands-on projects that turn frameworks into practical, real-world solutions - making security clear, useful, and a little more human.</b></div>
 
 <b><br><i>About Me</i><br></b>
 I’m transitioning into cybersecurity with a focus on governance, risk, and compliance (GRC). With a background in tech customer support and administration, I’m skilled at breaking down complex processes and making them easy to follow.
