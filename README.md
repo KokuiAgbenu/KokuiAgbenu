@@ -10,7 +10,8 @@ On this GitHub, I share hands-on projects, from risk registers to access control
 
 <b><i>Current Projects</i></b>
 - [<b>Cyber Risk Register</b>](#) – Practical example of identifying, assessing, and mitigating security risks.
-- [<b>Access Control Framework Guide</b>](#) – Covers RBAC, JML processes, PAM, and access review procedures. 
+- [<b>Access Control Framework Guide</b>](#) – Covers RBAC, JML processes, PAM, and access review procedures.
+- [<b>75 Hard - Cybersecurity edition</b>(#) - A cybersecurity version of the popular 75 Hard physical challenge.
 
 ---
   
