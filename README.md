@@ -7,22 +7,17 @@ I’m transitioning into cybersecurity with a focus on governance, risk, and com
 
 On this GitHub, I share hands-on projects, from risk registers to access control frameworks designed to turn policies into practical, real-world solutions. My goal is to make security as clear and actionable as it is robust.  
 
-
-<b><i>Current Projects</i></b>
-- [<b>75 Hard - Cybersecurity edition</b>](https://github.com/KokuiAgbenu/Cyber75_Hard) - A cybersecurity version of the popular 75 Hard physical challenge.
-- [<b>Cyber Risk Register</b>](#) – Practical example of identifying, assessing, and mitigating security risks.
 ---
   
 <br><div align="center">
     <a href="https://www.linkedin.com/in/kokui-agbenu"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
-<!--
 ## <h3>🔒 Cybersecurity Projects:</h3>
 - <b>Vulnerability Management Project</b>
   - [Vulnerability Management Program Implementation: Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
-  - [Programmatic Vulnerability Remediations (PowerShell and BASH): Prerequisites and Installation](https://github.com/kokuiagbenu/osticket-prereqs)
--->
+  - [Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/kokuiagbenu/osticket-prereqs)
+
 
 
 ## <h3>👩‍💻 IT Projects:</h3>
