@@ -3,7 +3,7 @@
 <b><div align="center">Cybersecurity professional specialising in governance, risk, and compliance. I create hands-on projects that turn frameworks into practical, real-world solutions - making security clear, useful, and a little more human.</b></div>
 
 <b><br><i>About Me</i><br></b>
-I’m transitioning into cybersecurity with a focus on governance, risk, and compliance (GRC). With a background in tech customer support and administration, I’m skilled at breaking down complex processes and making them easy to follow.
+I’m an IT professional with a focus on governance, risk, and compliance (GRC). With a background in tech customer support and administration, I’m skilled at breaking down complex processes and making them easy to follow.
 
 On this GitHub, I share hands-on projects, from risk registers to access control frameworks designed to turn policies into practical, real-world solutions. My goal is to make security as clear and actionable as it is robust.  
 
