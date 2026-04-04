@@ -15,7 +15,7 @@ On this GitHub, I share hands-on projects, from risk registers to access control
 
 ## <h3>🔒 Cybersecurity Projects:</h3>
 - <b>Vulnerability Management Project</b>
-  - [Vulnerability Management Program Implementation: Prerequisites and Installation](https://github.com/KokuiAgbenu/vulnerability-management-program)
+  - [Vulnerability Management Program Implementation](https://github.com/KokuiAgbenu/vulnerability-management-program)
   - [Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/KokuiAgbenu/lognpacific/tree/main/STIGS)
 
 
