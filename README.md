@@ -46,7 +46,7 @@ On this GitHub, I share hands-on projects, from risk registers to access control
 <h3>🤳Connect with me:</h3>
 
 [<img align="left" alt="Kokui | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Kokui | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+
 
 [linkedin]: https://linkedin.com/in/kokui-agbenu/
-[medium]: https://medium.com/@kokui-agbenu
+
